@@ -1,0 +1,7 @@
+FooTest
+└── When stuff is called
+    ├── When a condition is met
+    │   └── It should revert.
+    │       └── Because we shouldn't allow it.
+    └── When a condition is not met
+        └── It should revert.
